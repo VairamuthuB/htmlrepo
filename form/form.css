@@ -1,0 +1,24 @@
+body{
+    background-IMAGE: url("https://www.google.com/imgres?q=html&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F6%2F61%2FHTML5_logo_and_wordmark.svg%2F800px-HTML5_logo_and_wordmark.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML&docid=1Ted8cCjatfjsM&tbnid=BdtDz_oJMfOM7M&vet=12ahUKEwiPu9ar46-GAxXeS2cHHSL-BYMQM3oECBQQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwiPu9ar46-GAxXeS2cHHSL-BYMQM3oECBQQAA");
+    background-repeat: no-repeat;
+
+    background-size: cover;
+}
+h1{
+    background-color: azure;
+}
+.label{
+    background-color: blueviolet;
+}
+#name{
+    color: black;
+}
+table{
+    background-color:rgb(6,132,243);
+    color: blueviolet;
+    border-color: azure;
+    border-radius: 3%;
+    border-style: dashed;
+    padding: 100px;
+    margin: 100px;
+}

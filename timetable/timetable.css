@@ -1,0 +1,16 @@
+table,th,td{
+    border-radius: 2%;
+    border: 3px solid black;
+    background-color: aqua;
+
+}
+th{
+    background-color: bisque;
+
+}
+.lunch{
+    background-color: aquamarine;
+}
+body{
+    background-color: blueviolet;
+}

@@ -1,0 +1,37 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/7b/dc/e7/7bdce75d64ba8f75d7b71b14b23e411e.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 100px;
+}
+.blur{
+    backdrop-filter: blur(10px);
+}
+h1{
+    text-align: center;
+    color: burlywood;
+}
+h3{
+    color: blueviolet;
+    text-decoration: underline;
+}
+.tech{
+    border: 3px solid white;
+    border-radius: 3%;
+    text-align: center;
+    color: white;
+    height: 200px;
+    width: 350px;
+}
+.soft{
+    border: 3px solid white;
+    border-radius: 3%;
+    text-align: center;
+    color: white;
+    height: 200px;
+    width: 350px;
+}

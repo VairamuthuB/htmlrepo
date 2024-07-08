@@ -1,0 +1,14 @@
+.name{
+    /* margin-left: 800px; */
+    display: flex;
+    justify-content: space-evenly;
+}
+h2{
+    text-decoration: underline;
+}
+.link{
+    text-decoration: underline;
+}
+table{
+    border: 5px solid black;
+}

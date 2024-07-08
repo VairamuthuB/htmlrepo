@@ -1,0 +1,48 @@
+body{
+    background-image:url("https://img1.wallspic.com/crops/5/8/3/2/7/172385/172385-tuscany-ecoregion-cloud-green-nature-7680x4320.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 100px;
+}
+h3{
+    color: darkblue;
+    text-decoration: underline;
+}
+.COLLEGE{
+    border: 3px solid black;
+    border-radius: 3%;
+    text-align: center;
+    color: black;
+    height: 200px;
+    width: 350px;
+    
+}
+.mainAbout{
+    backdrop-filter: blur(10px);
+    height: 300px;
+}
+.HSC{
+    border: 3px solid black;
+    border-radius: 3%;
+    text-align: center;
+    color: black;
+    height: 200px;
+    width: 350px;
+}
+.SSLC{
+    border: 3px solid black;
+    border-radius: 3%;
+    text-align: center;
+    color: black;
+    height: 200px;
+    width: 350px;
+
+}
